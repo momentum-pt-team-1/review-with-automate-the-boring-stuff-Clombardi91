@@ -1,3 +1,5 @@
+# add comments for pr 
+
 # Please answer the practice questions at the end of chapters 1-6 here under the cooresponding comment:
 
 # Chapter 1
@@ -293,4 +295,3 @@ rjust(), ljust(), center()
 
 10. How can you trim whitespace characters from the beginning or end of a string?
 lstrip() and rstrip()
-
